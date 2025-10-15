@@ -2,3 +2,4 @@ pyTelegramBotAPI
 aiohttp
 Flask
 gunicorn
+aiogram==2.25.1
