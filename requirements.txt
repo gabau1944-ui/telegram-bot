@@ -1,5 +1,0 @@
-pyTelegramBotAPI
-Flask
-gunicorn
-aiogram==2.25.1
-aiohttp==3.9.5
